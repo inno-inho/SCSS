@@ -1,0 +1,48 @@
+.container {
+  border: 3px solid orange;
+  width: 450px;
+}
+.container ul {
+  border: 2px solid green;
+  margin: 5px;
+  padding: 10px;
+  list-style: none;
+}
+.container ul li {
+  min-height: 35px;
+  border: 1px solid red;
+  width: 200px;
+  margin: 5px;
+}
+.container ul .age {
+  color: blue;
+}
+.container ul .name {
+  font-weight: 900;
+  color: violet;
+}
+
+.container2 .btn {
+  text-decoration: none;
+  padding: 10p 0;
+  margin: 0px 10px;
+  border: 1px solid lightgray;
+  color: darkgray;
+  border-radius: 5%;
+  cursor: pointer;
+}
+.container2 .btn.active {
+  color: white;
+  background-color: orange;
+}
+.container2 .fs-small {
+  font-size: 0.7rem;
+}
+.container2 .fs-medium {
+  font-size: 0.9rem;
+}
+.container2 .fs-large {
+  font-size: 1.5rem;
+}
+
+/*# sourceMappingURL=/01.fd94d6d7.css.map */
